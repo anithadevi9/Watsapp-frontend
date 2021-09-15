@@ -1,0 +1,78 @@
+.back-top{
+  background-color: #009688;
+  height: 15vh;
+
+}
+.profile-title{
+  text-align: center
+
+}
+.clr{
+  color: #ffffff;
+}
+.wa{
+  color:white;
+  margin-top: 50px;
+}
+.back-main{
+  background-color:#D9DBD5;
+  height: 85vh;
+}
+.back-container{
+position:relative;
+}
+.front-container{
+  position: absolute;
+  top:0;
+  left:0;
+  right:0;
+
+}
+.contact-table-scroll{
+  overflow-y:scroll;
+  height: 600px;
+}
+.front-container1{
+  position: absolute;
+  top:20px;
+  left:0;
+  right:0;
+
+}
+.change-pik{
+  height:180px;
+  weight:180px;
+
+}
+.chat-top{
+  background-color: #D9DBD5;
+  min-height:50px;
+}
+.chat-profile{
+  background-color: #FFFFFF;
+  min-height:900px;
+  
+}
+.profile{
+  height:30px;
+  width:30px;
+}
+.contacts{
+  background-color: #ffffff;
+  min-height: 600px;
+}
+.message-area{
+  background-color: #D9DBD5;
+  min-height: 600px;
+
+}
+.message-table-scroll{
+  overflow-y:scroll;
+  height: 550px;
+}
+.message-box{
+  background-color: #D9DBD5;
+  /*position: fixed;*/
+  top: 600px;
+  right: 200px;
+}
