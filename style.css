@@ -16,7 +16,7 @@
 }
 .back-main{
   background-color:#D9DBD5;
-  height: 85vh;
+  height: 65vh;
 }
 .back-container{
 position:relative;
@@ -51,7 +51,7 @@ position:relative;
 .chat-profile{
   background-color: #FFFFFF;
   min-height:900px;
-  
+
 }
 .profile{
   height:30px;
@@ -75,4 +75,10 @@ position:relative;
   /*position: fixed;*/
   top: 600px;
   right: 200px;
+}
+.time{
+background-color: lightblue ;
+}
+.bgcolor{
+  background-color: #009688;
 }
